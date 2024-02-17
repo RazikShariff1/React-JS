@@ -1,0 +1,10 @@
+App.js 
+
+it uses the jsx ,a kind of a html file enclose within the single tag
+to use multiple tags we use <> </> to cover all tags
+
+the props of a kind of arguments that we pass in the file ,as it is js file the arguments
+to be passed in { arg }
+
+there are some additional changes to be made while using jsx , a tag that has only open tag
+must be closed
