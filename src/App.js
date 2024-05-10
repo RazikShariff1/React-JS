@@ -13,6 +13,9 @@ function App() {
     msg:message,
     typ:type
    })
+  setTimeout(()=>{
+  setAlert(null)}
+  ,1500)
   }
   const [mode,setmode]=useState("light")
   const toggle=()=>{
